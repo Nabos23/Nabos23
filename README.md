@@ -216,7 +216,7 @@ The system combines LLM-powered content generation with SEO-aware internal linki
 * AI-assisted publishing
 
 <p>
-<a href="REPOSITORY_URL">
+<a href="[REPOSITORY_URL](https://github.com/Nabos23/wordpress-article-bot)">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="WordPress automation repository"/>
 </a>
 </p>
