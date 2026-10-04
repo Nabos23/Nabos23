@@ -131,11 +131,13 @@ Currently, I'm particularly interested in building systems that don't just gener
 
 ## ⭐ Featured Projects
 
-### 🤖 Legacy AI
+### 🤖 ONE AI
 
 **AI agent orchestration platform built around FastAPI, LangGraph, MongoDB, Redis, Celery, and human-in-the-loop workflows.**
 
-Legacy AI focuses on building practical AI agents that can move beyond simple chat interactions by orchestrating tools, workflows, background jobs, external integrations, and human approval steps.
+ONE AI focuses on building practical AI agents that can move beyond simple chat interactions by orchestrating tools, workflows, background jobs, external integrations, and human approval steps.
+
+AI agent platform featuring a custom Python orchestration engine capable of dynamically routing multi-agent workflows, alongside LangGraph, FastAPI, MongoDB, Redis, Celery, and human-in-the-loop execution.
 
 **Core technologies:**
 
@@ -244,18 +246,31 @@ LLMs
  ├── AI Agents
  │    ├── Tool Calling
  │    ├── External Integrations
- │    └── Multi-Step Workflows
+ │    └── Multi-Agent Workflows
  │
- ├── Orchestration
- │    ├── LangGraph
+ ├── Dynamic Orchestration
+ │    ├── Custom Python Orchestration Engine
+ │    ├── Database-Driven Workflow Routing
+ │    ├── Dynamic Agent Sequencing
+ │    ├── Multi-Agent Prompt Handling
+ │    ├── Conditional Branching
+ │    ├── Parallel Branch Execution
+ │    └── Multi-Branch Workflow Handling
+ │
+ ├── LangGraph
+ │    ├── Graph-Based Agent Workflows
  │    ├── State Management
- │    └── Background Tasks
+ │    └── Workflow Execution
  │
  └── Human-in-the-Loop
       ├── Approval
       ├── Review
       └── Decision Points
 ```
+
+I'm particularly interested in building dynamic AI systems where workflows aren't hardcoded into a fixed sequence. My orchestration architecture uses a custom Python-based execution system alongside LangGraph, with workflow state and routing information stored in the database. This allows the system to dynamically determine which agents should execute next, handle multiple agents within a single workflow step, branch into different execution paths, and run independent branches in parallel.
+
+The result is an orchestration layer designed around dynamic multi-agent workflows rather than a predetermined chain of calls. Agents, routing, branching, parallel execution, and human intervention can all become part of the workflow depending on the state and requirements of a particular task.
 
 My goal isn't simply to connect an LLM to an application. I'm interested in designing systems where AI can **execute meaningful workflows while remaining observable, controllable, and useful in real-world scenarios.**
 
@@ -315,7 +330,7 @@ I'm interested in collaborating on projects involving **AI, automation, full-sta
 <img src="https://img.shields.io/badge/GitHub-Nabos23-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/soban-bin-nadeem-78b61838b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
