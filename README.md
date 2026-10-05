@@ -18,7 +18,7 @@
 
 <br>
 
-## 👋 Hey, I'm Soban
+## Hey, I'm Soban
 
 I'm an **AI + Full-Stack Developer** who enjoys turning complex ideas into practical software.
 
@@ -30,13 +30,13 @@ Currently, I'm particularly interested in building systems that don't just gener
 
 <br>
 
-## 🚀 What I Build
+## What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Engineering
+### AI Engineering
 
 * AI agent systems
 * LangGraph workflows
@@ -50,7 +50,7 @@ Currently, I'm particularly interested in building systems that don't just gener
 </td>
 <td width="50%" valign="top">
 
-### 💻 Full-Stack Development
+### Full-Stack Development
 
 * FastAPI backends
 * Next.js applications
@@ -67,7 +67,7 @@ Currently, I'm particularly interested in building systems that don't just gener
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Automation
+### Automation
 
 * Content generation pipelines
 * WordPress automation
@@ -80,7 +80,7 @@ Currently, I'm particularly interested in building systems that don't just gener
 </td>
 <td width="50%" valign="top">
 
-### 🔎 SEO & Web
+### SEO & Web
 
 * Technical SEO
 * On-page SEO
@@ -97,7 +97,7 @@ Currently, I'm particularly interested in building systems that don't just gener
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -129,9 +129,9 @@ Currently, I'm particularly interested in building systems that don't just gener
 
 <br>
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### 🤖 ONE AI
+### ONE AI
 
 **AI agent orchestration platform built around FastAPI, LangGraph, MongoDB, Redis, Celery, and human-in-the-loop workflows.**
 
@@ -162,7 +162,7 @@ AI agent platform featuring a custom Python orchestration engine capable of dyna
 
 ---
 
-### 🌐 Haywood Technologies
+### Haywood Technologies
 
 **Modern IT consultancy website built with Next.js, TypeScript, Tailwind CSS, and a strong focus on technical SEO and performance.**
 
@@ -197,7 +197,7 @@ The project combines a modern frontend with structured SEO implementation, respo
 
 ---
 
-### ✍️ WordPress Content Automation
+### WordPress Content Automation
 
 **AI-powered content generation and internal linking automation system designed for WordPress publishing workflows.**
 
@@ -225,7 +225,7 @@ The system combines LLM-powered content generation with SEO-aware internal linki
 
 ---
 
-### 🔎 SEO & Web Projects
+### SEO & Web Projects
 
 I also work on practical SEO and web-development projects involving **technical SEO, content systems, internal linking, website architecture, and search-focused content workflows**.
 
@@ -237,7 +237,7 @@ These projects combine development with SEO rather than treating them as complet
 
 <br>
 
-## 🧠 AI Engineering Interests
+## AI Engineering Interests
 
 I'm especially interested in the engineering side of modern AI applications.
 
@@ -276,7 +276,7 @@ My goal isn't simply to connect an LLM to an application. I'm interested in desi
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -296,7 +296,7 @@ My goal isn't simply to connect an LLM to an application. I'm interested in desi
 
 <br>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -306,7 +306,7 @@ My goal isn't simply to connect an LLM to an application. I'm interested in desi
 
 <br>
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 * Advanced AI agent architectures
 * Human-in-the-loop AI systems
@@ -320,7 +320,7 @@ My goal isn't simply to connect an LLM to an application. I'm interested in desi
 
 <br>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in collaborating on projects involving **AI, automation, full-stack development, developer tools, SaaS, and SEO-focused web systems.**
 
@@ -344,7 +344,7 @@ I'm interested in collaborating on projects involving **AI, automation, full-sta
 
 <div align="center">
 
-### 💡 Build. Automate. Ship.
+### Build. Automate. Ship.
 
 *Turning ideas into useful software, one project at a time.*
 
